@@ -1,0 +1,14 @@
+{
+  "name": "genpark-cpg-island-viterbi-hmm-detector-skill",
+  "version": "1.0.0",
+  "description": "Hidden Markov Model (HMM) Viterbi decoder identifying CpG nucleotide islands and genomic methylation regions with dynamic state transitions.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "viterbi-algorithm",
+    "hidden-markov-model",
+    "cpg-islands",
+    "epigenetics",
+    "bioinformatics"
+  ]
+}
